@@ -1,0 +1,12 @@
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/bin/Debug/net9.0/ZeEngine.deps.json
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/bin/Debug/net9.0/ZeEngine.dll
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/bin/Debug/net9.0/ZeEngine.pdb
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ZeEngine.csproj.AssemblyReference.cache
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ZeEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ZeEngine.AssemblyInfoInputs.cache
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ZeEngine.AssemblyInfo.cs
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ZeEngine.csproj.CoreCompileInputs.cache
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ZeEngine.dll
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/refint/ZeEngine.dll
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ZeEngine.pdb
+/Users/jacksonadams/GameDev/Moondrop/MoondropGame/ZeEngine/obj/Debug/net9.0/ref/ZeEngine.dll
